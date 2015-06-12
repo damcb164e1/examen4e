@@ -8,12 +8,12 @@
 	 <name>App Piano 3er Parcial 4toE </name>
 	 
 	 <description>
-	 utilizar Plugins de audio con un piano y las 7 notas musicales junio 2015
+	 Utilizar Plugins de audio con un piano y las 7 notas musicales junio 2015
 	 </description>
 	 
 	 <preference name="phonegap-version" value="3.1.0"/>
 	 <!--forzar la orientacion a horizontal-->
-	 <preference name="orientacion" value="landscape"/>
+	 <preference name="orientation" value="landscape"/>
 	 
 	 <author href="https://build.phonegap.com" email="support@phonegap.com">
 	 Bryan Acevedo Arias
